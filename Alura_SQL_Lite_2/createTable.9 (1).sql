@@ -1,0 +1,1 @@
+select AVG(lucro_liquido) FROM  faturamento;

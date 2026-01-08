@@ -1,0 +1,1 @@
+ALTER table HistoricoEmprego RENAME to CargosColaboradores;
